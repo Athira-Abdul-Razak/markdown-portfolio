@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[Website](https://athira-abdul-razak.github.io/Athira-static-website/)
