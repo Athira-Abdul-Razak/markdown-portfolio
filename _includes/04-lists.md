@@ -1,4 +1,2 @@
-# FAVORITE BOOKS
--The Alchemist
--Aadujeevitham
--Aalkkoottam
+- The Alchemist
+- Aadujeevitham
